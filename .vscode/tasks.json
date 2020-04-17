@@ -30,6 +30,7 @@
 			"label": "clean",
 			"type": "shell",
 			"command": "del /s /q *.nupkg",
+			"options": {"shell": {"executable": "cmd.exe", "args": ["/C"]}}
 		}
 	]
 }
