@@ -3,14 +3,14 @@
   <metadata>
     <!-- == PACKAGE SPECIFIC SECTION == -->
     <id>vitrite</id>
-    <version>1.1.1.20200516</version>
+    <version>1.1.1</version>
     <packageSourceUrl>https://github.com/n3rd4i/vitrite</packageSourceUrl>
     <owners>n3rd4i</owners>
     <!-- ============================== -->
 
     <!-- == SOFTWARE SPECIFIC SECTION == -->
     <!-- This section is about the software itself -->
-    <title>vitrite (Install)</title>
+    <title>Vitrite</title>
     <authors>Ryan VanMiddlesworth</authors>
     <!-- projectUrl is required for the community feed -->
     <projectUrl>http://www.vanmiddlesworth.org/vitrite/</projectUrl>
